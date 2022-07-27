@@ -17,7 +17,7 @@ public class Item {
 	}
 
 	public String getDescription()   {
-		return description;
+		return description  ;
 	}
 
 	public String getDueDate() {
