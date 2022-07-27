@@ -7,7 +7,7 @@ private int opticalZoom;
 		this.opticalZoom = opticalZoom;
 	}
 
-	public int getOpticalZoom()  {
+	public int getOpticalZoom()   {
 		return opticalZoom;
 	}
 	
