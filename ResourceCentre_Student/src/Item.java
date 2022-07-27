@@ -12,7 +12,7 @@ public class Item {
 		this.isAvailable = true;
 	}
 
-	public String getAssetTag() {
+	public String getAssetTag()  {
 		return assetTag;
 	}
 
